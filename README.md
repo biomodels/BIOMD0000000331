@@ -1,3 +1,21 @@
+# BIOMD0000000331: Larsen2004_CalciumSpiking_EnzymeBinding
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000331.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000331.git@20140916`
+
+
+# Model Notes
 
 
 This a model from the article:  
@@ -31,4 +49,5 @@ in addition to the 5 variables G-alpha, PLC, Ca_cyt, Ca_ER and Ca_mit
 receptor-operated model described in the first part of the paper. The
 receptor-operated model is itself a modified version of the model described in
 Kummer 2000 (PMID:[10968983](http://www.ncbi.nlm.nih.gov/pubmed/10968983))
+
 
